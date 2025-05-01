@@ -15,4 +15,7 @@ nav ul li a {
 	text-decoration:none;
 	color:#333;
 }
-
+nav ul li.logo{
+	display:inline-block;
+	margin: 0 10px;
+}
